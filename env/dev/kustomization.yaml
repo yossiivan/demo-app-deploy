@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/yossiivan/demo-app
-  newTag: 990c2646e36dae613beac38614d7508e2905994f
+  newTag: 09b57b20116bf11dae3eb13b2327dd2b0c155e8a
